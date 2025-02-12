@@ -2,6 +2,7 @@ site_name: Smart Campus UIS
 
 nav:
   - Home: index.md
-  - Install: install.md
+  - Install: core_usage.md
 
 theme: material
+
