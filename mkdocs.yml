@@ -2,7 +2,13 @@ site_name: Smart Campus UIS
 
 nav:
   - Home: index.md
-  - Install: core_usage.md
+  - GetStarted: core_usage.md
+  - Arquitectura: arquitectura.md
+  - ApiRest: ApiRestFull.md
+  - Simulaciones: Simulaciones.md
+  - AdminService: AdminService.md
+  - Participantes: Participantes.md
+  - Extension: Extension.md
 
-theme: material
+theme: readthedocs
 
