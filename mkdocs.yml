@@ -9,6 +9,7 @@ nav:
   - AdminService: AdminService.md
   - Participantes: Participantes.md
   - Extension: Extension.md
+  - Despliegue nueva arquitectura en Virtual Machine: Despliegue_SmartCampus_GCP.md
 
 theme: readthedocs
 
