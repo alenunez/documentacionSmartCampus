@@ -1,17 +1,26 @@
-# Welcome to MkDocs
+# SmartCampus UIS
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Bienvenido a la documentación del proyecto **SmartCampus UIS**, una plataforma orientada a la transformación digital del entorno universitario mediante el uso de tecnologías IoT, microservicios y visualización de datos.
 
-## Commands
+SmartCampus busca integrar múltiples servicios tecnológicos en el campus de la Universidad Industrial de Santander (UIS), permitiendo la gestión inteligente de recursos, espacios y personas, fomentando la eficiencia, sostenibilidad y toma de decisiones basadas en datos.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## Objetivos principales
 
-## Project layout
+- Centralizar la administración de servicios digitales del campus.
+- Monitorear el estado de infraestructuras y recursos mediante sensores IoT.
+- Ofrecer interfaces modernas para usuarios, administrativos y desarrolladores.
+- Facilitar la integración y despliegue de servicios a través de contenedores y microservicios.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## ¿Qué encontrarás en esta documentación?
+
+- Arquitectura general del sistema
+- Descripción de microservicios y sus APIs
+- Guías de despliegue en GCP (Google Cloud Platform)
+- Simulaciones, visualización de logs y esquemas
+- Reglas de extensión
+
+---
+
+> Esta documentación está construida con [MkDocs](https://www.mkdocs.org) y el tema [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
+
+
